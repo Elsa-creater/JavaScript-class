@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../ROOT"
+		},
+		{
+			"path": "../../../leap year checker"
+		},
+		{
+			"path": "../../../Quality EVENTS"
+		},
+		{
+			"path": "../../../Expense tracker"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}

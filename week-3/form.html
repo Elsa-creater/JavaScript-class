@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>save your name to the database">save to local</button>
+        <button onclick="saveToLocal()">save to the session</button>
+    </div>
+
+    <div>
+        <button onclick="saveToLocal()">read from local</button>
+        <button onclick="saveToLocal()">read from session</button>
+        </div>
+
+    <div>
+        <button onclick="saveToLocal()">clear local storage</button>
+        <button onclick="saveToLocal()">clear session storage</button>
+    </div>
+  <p id="output"></p>
+
+  <script>
+function loadFromLocal(){
+const name =document.getElementById("username").value
+
+localStorage.setItem("Farmername", name);
+alert("Name savved to local storage");
+}
+  </script>
+</body>
+</html>

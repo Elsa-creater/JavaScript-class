@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Elizabeth Namutebi",
+    "Age": 30,
+    "Type": "Layers",
+    "Quantity": 100,
+    }.
+{
+    "name": "Shimmy Mary",
+    "Age": 24,
+    "Type": "Broiler",
+    "Quantity": 125,
+    }.
+{
+    "name": "Ashuza Patra",
+    "Age": 28,
+    "Type": "Layers",
+    "Quantity": 250,
+    }.
+{
+    "name": "Luyimbazi Joshua",
+    "Age": 50,
+    "Type": "Broiler",
+    "Quantity": 185,
+    }
+]
